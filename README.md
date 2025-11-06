@@ -14,10 +14,16 @@ Therefore if we can determine if the first stage will land, we can determine the
 -Insights into the data by applying some basic statistical analysis and data visualization, was targetted to see directly how variables might be related to each other.   
 - Finer levels of detail by splitting the data into groups defined by categorical variables or factors in your data.  
 
+**Dataset:**
+
+All dataset used and generated during the course are presented as csv files
+
 **Juputer Source Code covering all 8 modules**
+
 Presented here are all 8 jupyter files along with soloutions as part of evaluation.
 
 **Powerpoint and Presentation Deck**
+
 The presentation slide deck is saved as KeyaDobriyal-Data-Science-Capstone.pdf
 The original presentation slide deck is saved as Keyadobriyal-Data-Science-Capstone-Original.pdf
 
